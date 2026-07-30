@@ -1,0 +1,14 @@
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.AssemblyInfo.cs
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\bin\Debug\net10.0\Ques4.exe
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\bin\Debug\net10.0\Ques4.deps.json
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\bin\Debug\net10.0\Ques4.runtimeconfig.json
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\bin\Debug\net10.0\Ques4.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\bin\Debug\net10.0\Ques4.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\refint\Ques4.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\Ques4.genruntimeconfig.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\Day 1\Coding\Ques4\obj\Debug\net10.0\ref\Ques4.dll
