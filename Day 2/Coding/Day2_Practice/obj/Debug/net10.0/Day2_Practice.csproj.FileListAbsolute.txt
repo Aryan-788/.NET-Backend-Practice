@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\bin\Debug\net10.0\Day2_Practice.exe
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\bin\Debug\net10.0\Day2_Practice.deps.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\bin\Debug\net10.0\Day2_Practice.runtimeconfig.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\bin\Debug\net10.0\Day2_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\bin\Debug\net10.0\Day2_Practice.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.AssemblyInfo.cs
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.sourcelink.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\refint\Day2_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\Day2_Practice.genruntimeconfig.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\Day 2\Coding\Day2_Practice\obj\Debug\net10.0\ref\Day2_Practice.dll
