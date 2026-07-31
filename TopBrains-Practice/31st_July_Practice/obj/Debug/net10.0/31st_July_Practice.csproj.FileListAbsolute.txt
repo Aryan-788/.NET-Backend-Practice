@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\bin\Debug\net10.0\31st_July_Practice.exe
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\bin\Debug\net10.0\31st_July_Practice.deps.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\bin\Debug\net10.0\31st_July_Practice.runtimeconfig.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\bin\Debug\net10.0\31st_July_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\bin\Debug\net10.0\31st_July_Practice.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.AssemblyInfo.cs
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.sourcelink.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\refint\31st_July_Practice.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\31st_July_Practice.genruntimeconfig.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\31st_July_Practice\obj\Debug\net10.0\ref\31st_July_Practice.dll
