@@ -4,8 +4,12 @@
     {
         // Console.WriteLine("---Question 1---");
         // Swapping.Start();
-        
-        Console.WriteLine("---Question 2---");
-        MultiplicationTable.Start();
+
+        // Console.WriteLine("---Question 2---");
+        // MultiplicationTable.Start();
+
+
+        Console.WriteLine("---Question 3---");
+        StringFormat.Start();
     }
 }
