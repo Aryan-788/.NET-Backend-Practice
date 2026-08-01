@@ -10,6 +10,8 @@
 
         // LargestInteger.Start();
 
-        DisplayHeight.Start();
+        // DisplayHeight.Start();
+
+        Programming.Start();
     }
 }
