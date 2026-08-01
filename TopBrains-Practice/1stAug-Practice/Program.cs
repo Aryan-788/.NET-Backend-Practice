@@ -12,6 +12,8 @@
 
         // DisplayHeight.Start();
 
-        Programming.Start();
+        // Programming.Start();
+
+        InventoryNameCleanup.Start();
     }
 }
