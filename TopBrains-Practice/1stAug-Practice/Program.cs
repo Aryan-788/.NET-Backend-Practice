@@ -20,6 +20,8 @@
 
         // BankTransactionProgram.Start();
 
-        Ques22.Start();
+        // Ques22.Start();
+
+        GreatestCommonDivisor.Start();
     }
 }
