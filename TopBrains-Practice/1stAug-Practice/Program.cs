@@ -16,6 +16,8 @@
 
         // InventoryNameCleanup.Start();
 
-        LibManagement.Start();
+        // LibManagement.Start();
+
+        BankTransactionProgram.Start();
     }
 }
