@@ -8,6 +8,8 @@
 
         // ArithmeticExpressions.Start();
 
-        LargestInteger.Start();
+        // LargestInteger.Start();
+
+        DisplayHeight.Start();
     }
 }
