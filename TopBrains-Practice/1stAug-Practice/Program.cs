@@ -24,6 +24,8 @@
 
         // GreatestCommonDivisor.Start();
 
-        FileIO.Start();
+        // FileIO.Start();
+
+        Ques27.Start();
     }
 }
