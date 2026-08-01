@@ -1,0 +1,5 @@
+INFO Application started
+ERROR Database connection failed
+WARN Low memory
+ERROR Invalid user credentials
+INFO Shutdown complete
