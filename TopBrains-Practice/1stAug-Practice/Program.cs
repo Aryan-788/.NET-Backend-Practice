@@ -14,6 +14,8 @@
 
         // Programming.Start();
 
-        InventoryNameCleanup.Start();
+        // InventoryNameCleanup.Start();
+
+        LibManagement.Start();
     }
 }
