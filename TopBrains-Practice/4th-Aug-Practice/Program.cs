@@ -3,6 +3,8 @@ class Program
 {
     static void Main()
     {
-        CustomSorting.Start();
+        // CustomSorting.Start();
+
+        SortedArrays.Start();
     }
 }
