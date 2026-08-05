@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\bin\Debug\net10.0\Metro_Smart_Card_System.exe
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\bin\Debug\net10.0\Metro_Smart_Card_System.deps.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\bin\Debug\net10.0\Metro_Smart_Card_System.runtimeconfig.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\bin\Debug\net10.0\Metro_Smart_Card_System.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\bin\Debug\net10.0\Metro_Smart_Card_System.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.AssemblyInfo.cs
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.sourcelink.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\refint\Metro_Smart_Card_System.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\Metro_Smart_Card_System.genruntimeconfig.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Metro_Smart_Card_System\obj\Debug\net10.0\ref\Metro_Smart_Card_System.dll
