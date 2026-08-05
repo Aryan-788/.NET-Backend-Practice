@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.exe
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.deps.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.runtimeconfig.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.AssemblyInfo.cs
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.sourcelink.json
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\refint\Bike_Rental_Assignment.dll
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.pdb
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.genruntimeconfig.cache
+D:\Study\Intership\Capgemini 20 Days Training Online\GITHUB\TopBrains-Practice\Bike_Rental_Assignment\obj\Debug\net10.0\ref\Bike_Rental_Assignment.dll
